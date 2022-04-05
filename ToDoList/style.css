@@ -1,0 +1,16 @@
+.btn-save{
+    float: right;
+    margin: 0 300px 0 0;
+    background-color: green;
+    color: white;
+    border-radius: 12%;
+    border: none;
+    caret-color: rgb(2, 102, 2);
+    width: 100px;
+    height: 30px;
+}
+
+.btn-save:focus,
+.btn-save:active{
+    outline: none;
+}
